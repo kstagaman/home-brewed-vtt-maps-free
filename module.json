@@ -1,0 +1,17 @@
+{
+  "name": "home-brewed-vtt-maps-free",
+  "title": "Home Brewed VTT Maps - Free",
+  "description": "A collection of free maps from Home Brewed VTT Maps",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "9",
+  "author": "Keaton Stagaman",
+  "packs": [
+    {
+      "name": "home-brewed-vtt-maps-free",
+      "label": "Home Brewed VTT Maps - Free",
+      "path": "packs/home-brewed-vtt-maps-free.db",
+      "entity": "Scene",
+      "package": "home-brewed-vtt-maps-free"
+    }
+  ]
+}
