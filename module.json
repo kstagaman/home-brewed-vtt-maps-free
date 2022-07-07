@@ -2,6 +2,7 @@
   "name": "home-brewed-vtt-maps-free",
   "title": "Home Brewed VTT Maps - Free",
   "description": "<p>A collection of free maps from Home Brewed VTT Maps</p>",
+  "version": "1.0",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "9",
   "author": "Home Brewed VTT Maps",
