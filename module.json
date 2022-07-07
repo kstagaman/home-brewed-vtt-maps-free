@@ -1,12 +1,13 @@
 {
   "name": "home-brewed-vtt-maps-free",
   "title": "Home Brewed VTT Maps - Free",
-  "description": "A collection of free maps from Home Brewed VTT Maps",
+  "description": "<p>A collection of free maps from Home Brewed VTT Maps</p>",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "9",
   "author": "Home Brewed VTT Maps",
   "url": "https://github.com/kstagaman/home-brewed-vtt-maps-free",
   "manifest": "https://raw.githubusercontent.com/kstagaman/home-brewed-vtt-maps-free/main/module.json",
+  "download": "https://codeload.github.com/kstagaman/home-brewed-vtt-maps-free/zip/refs/heads/main",
   "packs": [
     {
       "name": "home-brewed-vtt-maps-free",
