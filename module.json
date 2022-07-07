@@ -15,7 +15,7 @@
       "label": "Home Brewed VTT Maps - Free",
       "path": "packs/home-brewed-vtt-maps-free.db",
       "entity": "Scene",
-      "package": "home-brewed-vtt-maps-free"
+      "module": "home-brewed-vtt-maps-free"
     }
   ]
 }
