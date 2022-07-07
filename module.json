@@ -4,7 +4,9 @@
   "description": "A collection of free maps from Home Brewed VTT Maps",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "9",
-  "author": "Keaton Stagaman",
+  "author": "Home Brewed VTT Maps",
+  "url": "https://github.com/kstagaman/home-brewed-vtt-maps-free",
+  "manifest": "https://raw.githubusercontent.com/kstagaman/home-brewed-vtt-maps-free/main/module.json",
   "packs": [
     {
       "name": "home-brewed-vtt-maps-free",
